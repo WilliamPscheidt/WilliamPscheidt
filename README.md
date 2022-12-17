@@ -1,4 +1,4 @@
-### Hi 👋
+### Olá! 👋
 Eu me formei recentemente em Análise e Desenvolvimento de Software e neste momento estou focando todos os meus estudos em tecnologias Back-End.
 
 - 🔭 Atualmente estou trabalhando em projetos próprios a fim de melhorar as minhas habilidades em Back-End.
