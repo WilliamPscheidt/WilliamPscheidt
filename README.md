@@ -1,9 +1,6 @@
 ### Olá! 👋
 Sou um desenvolvedor iniciante com habilidades em JavaScript, Node.JS, Python e conhecimento básico em Rust. Meu foco está no desenvolvimento back-end e estou sempre buscando novos desafios e oportunidades para crescer na minha carreira. Estou animado para contribuir com projetos interessantes e colaborar com outros desenvolvedores na comunidade open-source.
 
-- 🔭 Atualmente estou trabalhando em projetos próprios a fim de melhorar as minhas habilidades em Back-End.
-- 🌱 Estou estudando Node.JS e Python com foco em Desenvolvimento de APIs.
-
 <div align="center">
   <a href="https://github.com/williampscheidt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williampscheidt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
