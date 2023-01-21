@@ -1,10 +1,10 @@
 ### Olá! 👋
 Sou um desenvolvedor iniciante com habilidades em JavaScript, Node.JS, Python e conhecimento básico em Rust. Meu foco está no desenvolvimento back-end e estou sempre buscando novos desafios e oportunidades para crescer na minha carreira. Estou animado para contribuir com projetos interessantes e colaborar com outros desenvolvedores na comunidade open-source.
 
-Já que você está por aqui recomendo dar uma olhada nos seguintes códigos, são os meus projetos mais completos e que eu despendi mais temmpo para o desenvolvimento:
-1. https://github.com/WilliamPscheidt/Ecommerce-API
-2. https://github.com/WilliamPscheidt/Questions-Platform
-3. https://github.com/WilliamPscheidt/Plataforma-Simulados
+Os projetos que eu mais me orgulho são os seguintes:
+1. ✅ https://github.com/WilliamPscheidt/Ecommerce-API
+2. ✅ https://github.com/WilliamPscheidt/Questions-Platform
+3. ✅ https://github.com/WilliamPscheidt/Plataforma-Simulados
 
 <div align="center">
   <a href="https://github.com/williampscheidt">
