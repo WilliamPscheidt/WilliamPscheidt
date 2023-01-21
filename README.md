@@ -1,5 +1,5 @@
 ### Olá! 👋
-Eu me formei recentemente em Análise e Desenvolvimento de Software e neste momento estou focando todos os meus estudos em tecnologias Back-End.
+Sou um desenvolvedor iniciante com habilidades em JavaScript, Node.JS, Python e conhecimento básico em Rust. Meu foco está no desenvolvimento back-end e estou sempre buscando novos desafios e oportunidades para crescer na minha carreira. Estou animado para contribuir com projetos interessantes e colaborar com outros desenvolvedores na comunidade open-source.
 
 - 🔭 Atualmente estou trabalhando em projetos próprios a fim de melhorar as minhas habilidades em Back-End.
 - 🌱 Estou estudando Node.JS e Python com foco em Desenvolvimento de APIs.
