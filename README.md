@@ -1,6 +1,5 @@
 1. ✅ https://github.com/WilliamPscheidt/Ecommerce-API
-2. ✅ https://github.com/WilliamPscheidt/Questions-Platform
-3. ✅ https://github.com/WilliamPscheidt/Plataforma-Simulados
+2. ✅ https://github.com/WilliamPscheidt/Plataforma-Simulados
 
 
 
