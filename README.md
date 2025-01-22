@@ -16,11 +16,6 @@
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-##
-<div align="center">
-  <a href="https://wa.me/47991962384"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
-  <a href="t.me/williampscheidt1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>
-</div>
     
     
     
