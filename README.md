@@ -1,4 +1,4 @@
-Desenvolvedor de Software com sólida base prática em **Back-end**, **DevOps & Infraestrutura** e ecossistema **JavaScript/TypeScript & Java**. 
+Desenvolvedor de Software com sólida base prática em **Back-end**, **DevOps & Infraestrutura**
 
 Foco em resolver problemas reais de arquitetura, automação de servidores e integração de sistemas.
 
