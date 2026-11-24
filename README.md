@@ -1,5 +1,3 @@
-# Olá, sou o William Pscheidt 👋
-
 Desenvolvedor de Software com sólida base prática em **Back-end**, **DevOps & Infraestrutura** e ecossistema **JavaScript/TypeScript & Java**. 
 
 Foco em resolver problemas reais de arquitetura, automação de servidores e integração de sistemas.
