@@ -15,14 +15,6 @@ Foco em resolver problemas reais de arquitetura, automação de servidores e int
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-- **Linguagens & Frameworks:** Node.js, TypeScript, Java (Spring Boot), React, React Native (Expo), Bash/Shell.
-- **Bancos de Dados & Caches:** MySQL / MariaDB, PostgreSQL, Redis.
-- **DevOps, Infra & Mensageria:** Docker, Nginx, RabbitMQ, WebSockets, Linux Sysadmin.
-
----
-
 📫 **Onde me encontrar:**
 - Site / Blog: [williampscheidt.com.br](https://williampscheidt.com.br)
 - Localização: Joinville - SC
