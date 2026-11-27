@@ -6,6 +6,7 @@ Foco em resolver problemas reais de arquitetura, automação de servidores e int
 
 ### 🚀 Principais Projetos & Especialidades
 
+- 💀 **[secure-go](https://github.com/WilliamPscheidt/secure-go)**: Sistema Anti-Malware
 - 🔥 **[proxy-go](https://github.com/WilliamPscheidt/reverse-proxy-go)**: Sistema de revere-proxy & load-balancer em GO
 - 💳 **[payment-service](https://github.com/WilliamPscheidt/payment-service)**: Microsserviço de pagamentos construído com Java 21, Spring Boot, Docker, Keycloak e gateway Stripe.
 - 🐳 **[whmcs-deploy-service](https://github.com/WilliamPscheidt/whmcs-deploy-service)**: Deploy automatizado de containers Docker com Nginx dinâmico e logs via WebSockets integrado ao WHMCS.
